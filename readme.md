@@ -15,6 +15,10 @@ A real-time location tracking application built with Node.js, Express, and Socke
 - Node.js (v12 or higher)
 - npm (Node Package Manager)
 
+## Project Architecture
+![Screenshot](https://github.com/your-username/realtime_tracker/raw/main/images/Screenshot%202025-04-01%20151735.png)
+
+
 ## Installation
 
 1. Clone the repository:
